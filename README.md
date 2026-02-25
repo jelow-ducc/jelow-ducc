@@ -1,7 +1,3 @@
-# 👋 Bonjour, je suis @jelow-ducc!
-
-### Projects
-- 🕳️ <sup>**a big hole for now**</sup>
-
+# 👋 Hello, I am @jelow-ducc!
 ---
 Thanks for stopping by!
